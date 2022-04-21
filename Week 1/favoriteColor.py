@@ -7,7 +7,7 @@ else :
 
 age = int(input("How old are you? "))
 
-if age > 23:
+if age > 22:
     print("{} must be a really good age, I hope I can get that age looking good as you!".format(age))
 elif age == 22:
     print("Cool, we have the same Age, {} years old!".format(age))
