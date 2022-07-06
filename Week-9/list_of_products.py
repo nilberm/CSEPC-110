@@ -42,6 +42,4 @@ while menu_choice != 5:
     print("This number is not in the menu choices")
 
 
-
-print(name_list, price_list)
 print("Thank you. Goodbye")
