@@ -30,7 +30,7 @@ average = 0
 numChoiceYear = 0
 
 
-with open("Week-11\milestone\life-expectancy.csv") as lifeFile:
+with open("life-expectancy.csv") as lifeFile:
   for line in lifeFile:
     cleanLine = line.strip()
     words = cleanLine.split(",")
